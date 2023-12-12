@@ -1,0 +1,16 @@
+splitFiles_ag filter=lfs diff=lfs merge=lfs -text
+splitFiles_al filter=lfs diff=lfs merge=lfs -text
+splitFiles_ao filter=lfs diff=lfs merge=lfs -text
+splitFiles_ae filter=lfs diff=lfs merge=lfs -text
+splitFiles_ai filter=lfs diff=lfs merge=lfs -text
+splitFiles_am filter=lfs diff=lfs merge=lfs -text
+splitFiles_an filter=lfs diff=lfs merge=lfs -text
+splitFiles_ap filter=lfs diff=lfs merge=lfs -text
+splitFiles_aa filter=lfs diff=lfs merge=lfs -text
+splitFiles_af filter=lfs diff=lfs merge=lfs -text
+splitFiles_ak filter=lfs diff=lfs merge=lfs -text
+splitFiles_ab filter=lfs diff=lfs merge=lfs -text
+splitFiles_ad filter=lfs diff=lfs merge=lfs -text
+splitFiles_ah filter=lfs diff=lfs merge=lfs -text
+splitFiles_aj filter=lfs diff=lfs merge=lfs -text
+splitFiles_ac filter=lfs diff=lfs merge=lfs -text
